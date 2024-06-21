@@ -6,4 +6,4 @@ RUN apt-get update && \
 
 COPY . .
 
-EXPOSE 8080
+EXPOSE 80
